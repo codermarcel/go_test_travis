@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go_test_travis/company"
+
+	"github.com/codermarcel/go_test_travis/company"
 )
 
 func main() {
